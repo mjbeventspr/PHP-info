@@ -7,5 +7,5 @@ You can see all the PHP information of your website server with this file.
 4. Check the details of your PHP information
 5. Don't forget to remove the phpinfo.php file from your server.
 
-<strong>Latest update:</strong> Thursday 23th of September 2021<br>
-<strong>Version:</strong> 1.0<br>
+<strong>Latest update:</strong> Tuesday 1st of February 2022<br>
+<strong>Version:</strong> 1.1<br>
