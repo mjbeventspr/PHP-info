@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+
+## Version 1.1 - 2022-02-01
+
+### Added
+- Compatibility with php 8.x.x
+- Added some more comments inside the code .php file
+
 ## Version 1.0 - 2021-09-23
 
 ### Added
